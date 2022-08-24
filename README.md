@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fahed Belhiba</h1>
 <h3 align="center">A full stack developer from Tunisia</h3>
-<img align="right" alt"coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif />
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahedbl&label=Profile%20views&color=0e75b6&style=flat" alt="fahedbl" /> </p>
 
